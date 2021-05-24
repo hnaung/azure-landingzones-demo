@@ -74,7 +74,6 @@ A level0 landing zone is the foundation of account and subscription management. 
 
 Currently we support an open source version of [level0 launchpad](https://github.com/Azure/caf-terraform-landingzones/tree/master/caf_launchpad).
 
-We are currently working on a [Terraform Cloud](https://www.terraform.io/docs/cloud/index.html) edition of level0 blueprint.
 
 [Back to summary](../README.md)
 
