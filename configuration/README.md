@@ -2,7 +2,7 @@
 
 ## Creating your environment
 
-When creating a new environment with landing zone, you will customize and deploy the levels from the level 0 up to level 4. It is important to respect that order to deploy the enterprise configuration and hierarchy as per the [following guidance](https://github.com/Azure/caf-terraform-landingzones/blob/master/documentation/code_architecture/hierarchy.md).
+When creating a new environment with landing zone, you will customize and deploy the levels from the level 0 up to level 4. It is important to respect that order to deploy the enterprise configuration and hierarchy as per the [following guidance](../documentation/code_architecture/hierarchy.md).
 
 ## General getting started
 

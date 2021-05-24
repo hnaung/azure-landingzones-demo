@@ -13,7 +13,6 @@ The purpose of this repository is to provide you with a starting point when comp
 In CAF landing zones for Terraform, our approach is to separate the configuration repository and the logic repository:
 
 * **Configuration repository**: this template is an example of configuration repository for CAF landing zones, containing definition of the configuration for your different environments. In real world, this is often separate repositories, but to simplify things, we created a repo with examples containing various environments.
-* **Logic repository**: the Azure CAF landing [zone repository](https://github.com/azure/caf-terraform-landingzones)
 
 This approach allows you to easily:
 
