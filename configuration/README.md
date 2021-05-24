@@ -160,7 +160,7 @@ rover -lz /tf/caf/landingzones/caf_solution/ \
 
 #### Deploy an Azure App Service Environment landing zone
 
-NOTE: You can use level 4 landing zones to describe and deploy an application on top of an environment described in level 3 landing zones (App Service Environment, AKS, etc.).
+NOTE: You can use level 3 landing zones to describe and deploy an application on Azure Cloud environment described in level 3 landing zones (ML Service Environment, AKS, etc.).
 Keep on monitoring this repository as we will add examples related to this level.
 Warning: this is time consuming.
 
