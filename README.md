@@ -34,4 +34,6 @@ Landing zones for Terraform are composed of multiple open-source components and 
 | [module](https://registry.terraform.io/modules/aztfmod)                                          | CAF Terraform module |
 
 ## Getting started 
-![Demo deployment README](configuration/README.md)
+[Demo deployment README](configuration/README.md)
+
+![Hierarchy](_pictures/code_architecture/hierarchy.png)
