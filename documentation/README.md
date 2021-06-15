@@ -17,4 +17,6 @@ In this series of articles, we describe the development, code architecture, the 
 
 [Introduction to delivery of landing zones](./delivery/delivery_landingzones.md)
 
+![Hierarchy](../_pictures/code_architecture/hierarchy.png)
+
 Enjoy! 
